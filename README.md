@@ -17,7 +17,7 @@
     src="https://komarev.com/ghpvc/?username=haroonkhadim123&label=Profile%20views&color=0e75b6&style=flat"
     alt="haroonkhadim123" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/haroonkhadim123/](https://github.com/haroonkhadim123/)
